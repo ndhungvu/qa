@@ -1,0 +1,17 @@
+.jsMessage {
+  text-align: center;
+  margin-left: 25%;
+}
+.clear {
+  clear: both;
+}
+.jsLoading, .jsImage, .jsLogo_1, .jsLogo_2 {
+	display: none !important;
+}
+.jsError {
+	color: red;
+	float: left;
+}
+.required {	
+	color: #C70101;
+}

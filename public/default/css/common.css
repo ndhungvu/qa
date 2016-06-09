@@ -1,0 +1,11 @@
+.error {
+	color : #FB4040;
+	display: none;
+}
+.jsLevel, .jsExercise {
+	margin-right: 10px;
+}
+.jsContent img{
+	width: 300px;
+	height: 300px;
+}
